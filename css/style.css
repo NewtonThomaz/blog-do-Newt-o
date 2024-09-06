@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+section{
+    display: flex;
+}
+
+nav {
+    background-color: #5E1DAD;
+    display: flex;
+    height: 100px;
+    font-size: 3em;
+    justify-content: center;
+}
+
+section {
+    color: white;
+    background-image:url('../img/imagen04.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+  
+}
+aside {
+    color: black;
+    display: flex;
+    background-color: #267CC1;
+    width: 300px;
+    height: 100%+105px;
+}
+
+footer {
+    background-color:#141414;
+    height: 30px;
+    color: white;
+}
+.primeira{
+    margin: 30px;
+}
+.segunda{
+    padding: 15px;
+}
+.Titulo{
+    margin: 10px 0px 0px 0px  ;
+}
